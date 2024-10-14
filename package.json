@@ -1,0 +1,15 @@
+{
+  "name": "exemplo_banco",
+  "version": "1.0.0",
+  "description": "exemplo de aplicação de POO e modulação de arquivos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme",
+  "license": "ISC",
+
+  "type": "module"
+
+}
+
